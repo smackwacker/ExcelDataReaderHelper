@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExcelColumn.cs" />
     <Compile Include="ExcelDataReaderHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ExcelFileFormat.cs" />
